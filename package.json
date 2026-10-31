@@ -1,0 +1,8 @@
+{
+  "name": "zencxn-market-video",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start":"remotion studio", "build":"remotion render ZenCxnMarket out/zencxn-market.mp4"},
+  "dependencies": {"@remotion/cli":"4.0.534","remotion":"4.0.534","react":"19.1.0","react-dom":"19.1.0","typescript":"5.8.3"},
+  "devDependencies": {}
+}
